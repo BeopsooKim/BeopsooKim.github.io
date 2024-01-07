@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Electrical Engineering, Inha University, 2020
 * Ph.D in Electrical and Computer Engineering, Inha University, 2025 (expected)
-  * Advisor : Prof. Insu Kim
+  * Advisor : Prof. [Insu Kim](https://eng.inha.ac.kr/eng/3590/subview.do?&enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZW5nJTJGNjMlMkYxNzklMkZjb2xsZWdlUHJvZlZpZXcuZG8lM0ZzaXRlSWQlM0RlbmclMjZpbmhhaWQlM0QzMDc2MTAzMjk2OTVERjFFMjZEMENDQzlGRDYzQzA5RjYyNkZBMDNFRTU0MzE4QzMxM0UxNjk3MUFCQkU2MDMyODNCOUI0NjIxMDYyRDYwOTlBMjExMEYwM0VCM0NCODU3MjlGQURDQUMwNDZGMkI3QTBCMkMzNkQxMjZEMTMwOCUyNg==)
 
 Research Interest
 ======
