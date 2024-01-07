@@ -9,51 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
+Detailed CV
+======
+[Detailed CV](https://drive.google.com/file/d/1NRgbSYLRNUxIuVMPfU8yKg5f7FQ72FcQ/view?usp=drive_link)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Inha University, 2020
+* Ph.D in Electrical and Computer Engineering, Inha University, 2025 (expected)
+  * Advisor : Prof. Insu Kim
 
-Work experience
+Research Interest
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Developing an algorithm for optimal control of AC-DC hybrid power grids
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Developing an analysis algorithm of AC-DC hybrid power grid response:
+  * Power flow analysis
+  * Fault analysis
+  * Stability analysis  
+
+* Using optimization algorithms and theory to inform the design of more effective electrical power distribution system
   
-Skills
+Research Experiences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Assistant at _Department of Electrical and Computer Engineering, Inha University_
+  * Aug.2020 - Present
+
+* Research Intern at _Department of Electrical Engineering, Inha University_
+  * Jan.2019 - Aug.2020
+
+Teaching Experiences
+======
+* **Teaching Assistant** at _Inha University_ : Aug.2020 - Aug.2021
+  * EEE 2004 : Electromagnetics 2 (Fall 2020)
+    * Answered questions from students and created homework solutions. Also, performed scoring of assignments and tests.
+  * EEE 2003 : Electromagnetics 1 (Spring 2021)
+    * Answered questions from students and created homework solutions. Also, performed scoring of assignments and tests.
+  * EEE 3313 : New Renewable Energy (Spring 2021)
+    * Answered questions from students and created homework solutions. Also, performed scoring of assignments and tests.
+  * EEE 2001 : Engineering Circuit Analysis 1 (Spring 2021)
+    * Answered questions from students and created homework solutions. Also, performed scoring of assignments and tests.
+
+
+Work Experience
+======
+* **Sergeant airman** at _11th Fighter wing, Republic of Korea Airforce_
+  * Period : Dec.2013 - Dec.2015
+  * Position : Responsible for supply and management of materials that maintain and repair airbase facilities.
+  * Selected as a battlion medal airman and recevied a commendation.
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Please refer to my [google scholar](https://scholar.google.com/citations?user=paV6M74AAAAJ&hl=ko) profile.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming languages : C/C++, Matlab, Python, R, Julia, IEC 61131-3 (Ladder)
+* Language : Native in Korean, Fluent in English and Japanese
+* Using tools : Simulink, OpenDSS, HOMER-Pro, PSCAD/EMTDC, DIgSILENT(c) PowerFactory, PSIM, Mitsubishi GX-works, SKM* PowerTools
