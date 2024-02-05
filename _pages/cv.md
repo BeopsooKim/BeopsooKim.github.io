@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Detailed CV Link
+
 [Detailed CV](https://drive.google.com/file/d/1NRgbSYLRNUxIuVMPfU8yKg5f7FQ72FcQ/view?usp=drive_link)
 
 Education
 ======
-* B.S. in Electrical Engineering, Inha University, 2020
-* Ph.D in Electrical and Computer Engineering, Inha University, 2025 (expected)
+* B.S. in Electrical Engineering, Inha University, Aug 2020
+* Ph.D in Electrical and Computer Engineering, Inha University, Aug 2025 (expected)
   * Advisor : Prof. [Insu Kim](https://eng.inha.ac.kr/eng/3590/subview.do?&enc=Zm5jdDF8QEB8JTJGZGVwYXJ0bWVudEludHJvJTJGZW5nJTJGNjMlMkYxNzklMkZjb2xsZWdlUHJvZlZpZXcuZG8lM0ZzaXRlSWQlM0RlbmclMjZpbmhhaWQlM0QzMDc2MTAzMjk2OTVERjFFMjZEMENDQzlGRDYzQzA5RjYyNkZBMDNFRTU0MzE4QzMxM0UxNjk3MUFCQkU2MDMyODNCOUI0NjIxMDYyRDYwOTlBMjExMEYwM0VCM0NCODU3MjlGQURDQUMwNDZGMkI3QTBCMkMzNkQxMjZEMTMwOCUyNg==)
+  * Dissertation Theme : The AC-DC Hybrid Power Grid Analysis Method Development for Next Generation Microgrid Implementation
 
 Research Interest
 ======
